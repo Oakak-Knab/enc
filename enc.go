@@ -30,3 +30,4 @@ func Encrypt(plainText []byte, key []byte) ([]byte, error) {
 
 	return cypherText, nil
 }
+
